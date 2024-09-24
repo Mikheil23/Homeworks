@@ -12,3 +12,4 @@ C:\Users\MYCOMPUTER\source\repos\Homeworks\Homeworks\obj\Debug\net8.0\refint\Hom
 C:\Users\MYCOMPUTER\source\repos\Homeworks\Homeworks\obj\Debug\net8.0\Homeworks.pdb
 C:\Users\MYCOMPUTER\source\repos\Homeworks\Homeworks\obj\Debug\net8.0\Homeworks.genruntimeconfig.cache
 C:\Users\MYCOMPUTER\source\repos\Homeworks\Homeworks\obj\Debug\net8.0\ref\Homeworks.dll
+C:\Users\MYCOMPUTER\source\repos\Homeworks\Homeworks\obj\Debug\net8.0\Homeworks.sourcelink.json

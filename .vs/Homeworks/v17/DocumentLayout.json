@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BB602058-403C-4B23-BDD2-83E3899CD6A4}|Homeworks\\Homeworks.csproj|c:\\users\\mycomputer\\source\\repos\\homeworks\\homeworks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB602058-403C-4B23-BDD2-83E3899CD6A4}|Homeworks\\Homeworks.csproj|solutionrelative:homeworks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB602058-403C-4B23-BDD2-83E3899CD6A4}|Homeworks\\Homeworks.csproj|c:\\users\\mycomputer\\source\\repos\\homeworks\\homeworks\\homeworks.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BB602058-403C-4B23-BDD2-83E3899CD6A4}|Homeworks\\Homeworks.csproj|solutionrelative:homeworks\\homeworks.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homeworks",
+              "DocumentMoniker": "C:\\Users\\MYCOMPUTER\\source\\repos\\Homeworks\\Homeworks\\Homeworks.csproj",
+              "RelativeDocumentMoniker": "Homeworks\\Homeworks.csproj",
+              "ToolTip": "C:\\Users\\MYCOMPUTER\\source\\repos\\Homeworks\\Homeworks\\Homeworks.csproj",
+              "RelativeToolTip": "Homeworks\\Homeworks.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T18:49:56.67Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +39,7 @@
               "RelativeDocumentMoniker": "Homeworks\\Program.cs",
               "ToolTip": "C:\\Users\\MYCOMPUTER\\source\\repos\\Homeworks\\Homeworks\\Program.cs",
               "RelativeToolTip": "Homeworks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T17:17:11.619Z",
               "EditorCaption": ""
